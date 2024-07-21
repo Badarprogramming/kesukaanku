@@ -1,5 +1,4 @@
 Makanan kesukaanku
-- Nakso
 - Migoreng
 - mie dokdok
 - ayam goreng
